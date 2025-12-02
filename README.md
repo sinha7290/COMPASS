@@ -1,6 +1,6 @@
 # COMPASS Figure 2 – Example DataFrames and Gene Signatures
 
-This repository contains **example expression matrices and gene signatures** used to generate the panels in **Figure 2** of the COMPASS manuscript, illustrating cohort-level anchoring and cross-model benchmarking using deterministic composite activity scores. :contentReference[oaicite:0]{index=0}  
+This repository contains **example expression matrices and gene signatures** used to generate the panels in **Figure 2** of the COMPASS manuscript, illustrating cohort-level anchoring and cross-model benchmarking using deterministic composite activity scores.
 
 All examples are configured to run directly through the **COMPASS web tool**:
 
