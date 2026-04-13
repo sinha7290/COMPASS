@@ -11,3 +11,4 @@ All examples are configured to run directly through the **COMPASS web tool**:
 ## What is in this repository?
 
 The repo is organized by Figure 2 panel groups, with paired **expression matrice** (column names are associated with the metadata), and **gene signatures**.
+Bootstrap code is also available with example datasets
