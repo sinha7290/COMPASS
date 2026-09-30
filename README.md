@@ -4,7 +4,7 @@ This repository contains **example expression matrices and gene signatures** use
 
 All examples are configured to run directly through the **COMPASS web tool**:
 
-👉 **COMPASS Web App:** https://compass.precsn.com/
+ **COMPASS Web App:** https://compass.precsn.com/
 
 ---
 
